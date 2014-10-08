@@ -1,7 +1,7 @@
 Path Planning Search Algorithms
 ========
 
-Included are four algorithms for mobile robot path planning, specifically designed for multiobjective optimization (MOO) problems. They are written for use with the MATLAB Robotics Toolbox: http://www.petercorke.com/Toolbox_software.html
+Included are four algorithms for mobile robot path planning, specifically designed for multiobjective optimization (MOO) problems. They are written for use with the MATLAB Robotics Toolbox (RTB): http://www.petercorke.com/Toolbox_software.html. The Navigation.m file here is to be used instead of the RTB implementation in order to accomodate the algorithms below.
 
 A*MOO: A* search algorithm for MOO path planning
 
